@@ -1,1 +1,1 @@
-![Intro slide](slides/001.jpg)
+![Intro slide](slides/001.jpeg)
